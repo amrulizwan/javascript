@@ -93,7 +93,7 @@ function Mahasiswa3(nama, umur, hobi, iq) {
 	mahasiswa4.iq = iq;
 	// semua method di methodMahasiswa masuk ke dalam object mahasiswa4 (belajar, mabok, tidur)
 
-	return mahasiswa4;
+	return mahasiswa3;
 }
 
 let farel = Mahasiswa3('Farel', 20, ['Mabok', 'Game', 'Berantem'], 90);
